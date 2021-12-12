@@ -114,7 +114,7 @@ body{
   background:#070e4d;
   font-weight:400;
   font-size: 1.3rem;
-  margin:36%;
+  margin:34%;
   box-shadow: 1px 1px 5px 1px gray;
   transition:.3s;
 }
@@ -188,7 +188,7 @@ body{
   padding-left:15px;
   border:none;
   border-radius:10px;  
-  margin-left:500px;
+  margin-left:600px;
   margin-right:15px;
 }
 #submit{
